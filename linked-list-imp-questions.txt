@@ -1,0 +1,5 @@
+Reverse a linked list
+Rotate a Linked List
+Reverse a Linked List in groups of given size
+Detect Loop in linked list
+Remove loop in Linked List
