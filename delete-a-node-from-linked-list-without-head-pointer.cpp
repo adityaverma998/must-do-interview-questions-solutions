@@ -4,6 +4,34 @@
 https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/
 
 
+
+For example, suppose we need to delete C and a pointer to C is given. If we had a pointer to B we could have deleted C easily. But here we will copy the data field of D to data field of C. Then we will move forward. Now we are at D and we have a pointer to C i.e. the previous pointer. So we will delete D. That’s how the node C will be deleted.
+
+filter_none
+edit
+play_arrow
+
+brightness_4
+void deleteNodeWithoutHead(struct Node* pos) 
+{ 
+    if (*pos == NULL) // If linked list is empty 
+        return; 
+  
+    else { 
+        struct Node* temp = pos->next; 
+  
+        // Copy data of the next node to current node 
+        pos->data = pos->next->data;  
+  
+        // Perform conventional deletion 
+        pos->next = pos->next->next;  
+  
+        free(temp); 
+    } 
+    return 0; 
+} 
+
+
 */
 
 
