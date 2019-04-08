@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/
+
+
+http://eclassesbyravindra.com/mod/page/view.php?id=3281
