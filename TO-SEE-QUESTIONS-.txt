@@ -7,3 +7,6 @@ number of possible triangles --- array
 
 https://www.geeksforgeeks.org/rearrange-given-array-place/
 
+
+
+https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
