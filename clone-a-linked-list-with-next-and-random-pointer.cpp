@@ -8,6 +8,9 @@ https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-ra
 
 
 code -----------------
+
+
+     
 {
 #include <bits/stdc++.h>
 using namespace std;
@@ -157,29 +160,40 @@ Node * copyList(Node *head)
 {
      // Your code here
      
-     struct Node * temp = head;
+     map < struct Node *, struct Node * > m;
      
-     while(temp->next){
-         struct Node * nn = newNode(temp->data);
-         nn->next = temp->next;
-         temp->next = nn;
+     struct Node * temp = head;
+     struct Node * head1 = NULL;
+     struct Node * t1 = head1;
+     while(temp){
          
-         temp = temp->next->next;
+        if(head1 == NULL){
+            head1 = newNode(temp->data);
+            m.insert(make_pair(temp,head1));
+            temp = temp->next;
+            t1 = head1;
+            continue;
+        } 
+        
+        t1->next = newNode(temp->data);
+        m.insert(make_pair(temp,t1->next));
+        temp = temp->next;
+        t1 = t1->next;
      }
      
-     struct Node * nn1 = newNode(temp->data);
-     temp->next = nn1;
-     
      temp = head;
+     t1 = head1;
      
      while(temp){
          
-         temp->next->arb = temp->arb->next;
-         temp = temp->next->next;
+         struct Node * x = temp ;
+         struct Node * y = m.find(x)->second;
+         struct Node * a = x->arb;
+         
+         m.find(x)->second->arb = m.find(x->arb)->second;
+         temp = temp->next;
          
      }
      
-     
-     
-     
+     return t1;
 }
