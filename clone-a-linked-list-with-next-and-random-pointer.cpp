@@ -1,6 +1,6 @@
 https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
 
-// nice approach -->>>  http://eclassesbyravindra.com/mod/page/view.php?id=3293
+// nice approach -->>>  http://eclassesbyravindra.com/mod/page/view.php?id=3293      <<<<------ apply this only 
 
 // better approach but changes pointers ->>>> http://eclassesbyravindra.com/mod/page/view.php?id=3295
 
