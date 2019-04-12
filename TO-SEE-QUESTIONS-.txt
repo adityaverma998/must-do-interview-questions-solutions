@@ -14,10 +14,11 @@ https://www.geeksforgeeks.org/point-arbit-pointer-greatest-value-right-side-node
 
 see code also for 1,2,3 --->>>
                     
+    1.  http://eclassesbyravindra.com/mod/page/view.php?id=4098
 
-1.  http://eclassesbyravindra.com/mod/page/view.php?id=4098
+    2.  http://eclassesbyravindra.com/mod/page/view.php?id=4096
 
-2.  http://eclassesbyravindra.com/mod/page/view.php?id=4096
+    3.  http://eclassesbyravindra.com/mod/page/view.php?id=4095
 
-3.  http://eclassesbyravindra.com/mod/page/view.php?id=4095
 
+http://eclassesbyravindra.com/mod/page/view.php?id=6304
