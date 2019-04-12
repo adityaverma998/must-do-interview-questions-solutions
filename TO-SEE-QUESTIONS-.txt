@@ -12,9 +12,12 @@ https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
 
 https://www.geeksforgeeks.org/point-arbit-pointer-greatest-value-right-side-node-linked-list/
 
-http://eclassesbyravindra.com/mod/page/view.php?id=4098
+see code also for 1,2,3 --->>>
+                    
 
-http://eclassesbyravindra.com/mod/page/view.php?id=4096
+1.  http://eclassesbyravindra.com/mod/page/view.php?id=4098
 
-http://eclassesbyravindra.com/mod/page/view.php?id=4095
+2.  http://eclassesbyravindra.com/mod/page/view.php?id=4096
+
+3.  http://eclassesbyravindra.com/mod/page/view.php?id=4095
 
