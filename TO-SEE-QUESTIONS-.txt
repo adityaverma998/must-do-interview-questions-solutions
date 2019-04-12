@@ -9,3 +9,5 @@ https://www.geeksforgeeks.org/rearrange-given-array-place/
 
 http://eclassesbyravindra.com/mod/page/view.php?id=6360
 https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
+
+https://www.geeksforgeeks.org/point-arbit-pointer-greatest-value-right-side-node-linked-list/
