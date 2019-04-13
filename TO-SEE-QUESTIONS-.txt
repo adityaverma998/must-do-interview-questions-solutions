@@ -26,3 +26,4 @@ http://eclassesbyravindra.com/mod/page/view.php?id=6304
 https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
 
 https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/
