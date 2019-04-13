@@ -24,3 +24,5 @@ see code also for 1,2,3 --->>>
 http://eclassesbyravindra.com/mod/page/view.php?id=6304
 
 https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+
+https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
