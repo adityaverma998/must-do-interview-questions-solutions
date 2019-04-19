@@ -1,5 +1,5 @@
 /*
-dont go for gfg here, watch rbr video -  
+dont go for gfg here, watch rbr videos -  
 http://eclassesbyravindra.com/mod/page/view.php?id=3514   
 &  
 http://eclassesbyravindra.com/mod/page/view.php?id=6696
