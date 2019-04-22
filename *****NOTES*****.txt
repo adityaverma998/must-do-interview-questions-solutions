@@ -55,6 +55,10 @@ int main()
 ---------------------------
 
 
-*
+
+
+
+
+* LCA for bst and binary tree code is different , see this.
 
 
