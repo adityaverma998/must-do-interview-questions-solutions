@@ -33,3 +33,6 @@ https://practice.geeksforgeeks.org/problems/circular-tour/1
 
 
 tournament tree
+
+
+https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/
