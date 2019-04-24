@@ -36,3 +36,5 @@ tournament tree
 
 
 https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/
+
+https://www.geeksforgeeks.org/print-nodes-distance-k-given-node-binary-tree/
