@@ -39,3 +39,6 @@ https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-
 
 https://www.geeksforgeeks.org/print-nodes-distance-k-given-node-binary-tree/
 https://www.geeksforgeeks.org/remove-nodes-root-leaf-paths-length-k/
+
+
+bst - insert delete search , avl - insert, delete
