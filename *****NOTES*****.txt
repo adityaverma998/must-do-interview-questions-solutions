@@ -62,3 +62,6 @@ int main()
 * LCA for bst and binary tree code is different , see this.
 
 https://stackoverflow.com/questions/1098175/a-stdmap-that-keep-track-of-the-order-of-insertion
+
+
+http://eclassesbyravindra.com/mod/page/view.php?id=6308        -------      https://www.geeksforgeeks.org/locking-and-unlocking-of-resources-in-the-form-of-n-ary-tree/
