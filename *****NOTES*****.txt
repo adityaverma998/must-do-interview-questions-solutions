@@ -65,3 +65,10 @@ https://stackoverflow.com/questions/1098175/a-stdmap-that-keep-track-of-the-orde
 
 
 http://eclassesbyravindra.com/mod/page/view.php?id=6308        -------      https://www.geeksforgeeks.org/locking-and-unlocking-of-resources-in-the-form-of-n-ary-tree/
+
+
+
+http://eclassesbyravindra.com/mod/page/view.php?id=6316
+
+
+http://eclassesbyravindra.com/mod/page/view.php?id=6323
