@@ -77,3 +77,6 @@ http://eclassesbyravindra.com/mod/page/view.php?id=6323
 strstr() 
 
 http://eclassesbyravindra.com/mod/page/view.php?id=6344
+
+
+lower_bound() & upper_bound()
