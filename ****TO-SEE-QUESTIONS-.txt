@@ -45,3 +45,5 @@ https://www.geeksforgeeks.org/remove-nodes-root-leaf-paths-length-k/
 bst - insert delete search , avl - insert, delete
 
 https://www.geeksforgeeks.org/construct-a-binary-tree-from-postorder-and-inorder/
+
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
