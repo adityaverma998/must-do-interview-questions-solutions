@@ -51,3 +51,5 @@ https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
 https://www.geeksforgeeks.org/counting-inversions/
+
+https://www.geeksforgeeks.org/find-missing-number-arithmetic-progression/
