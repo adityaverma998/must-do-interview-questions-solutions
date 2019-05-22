@@ -16,3 +16,5 @@ use two pointer approach
 https://practice.geeksforgeeks.org/viewSol.php?subId=13168800&pid=590&user=ADITYA_VERMA_
 * counting inversion -
 counting-inversions gfg read using merge sort
+*kadane -
+https://practice.geeksforgeeks.org/viewSol.php?subId=14132272&pid=106&user=ADITYA_VERMA_
