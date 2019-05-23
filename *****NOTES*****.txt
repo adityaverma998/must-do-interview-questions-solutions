@@ -84,6 +84,11 @@ lower_bound() & upper_bound()
 memset(array,0,sizeof(array));
 
 * if hashing using stl map or anything gives you tle error then use array for implementing hash to get O(n) time complexity.
-
-
+---------
+* in remove duplicate question on gfg
+use 
+char s[1000];
+scanf(" %[^\n]s",s);
+to read strings with spaces
+--------
 
