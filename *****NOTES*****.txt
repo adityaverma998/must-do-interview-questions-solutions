@@ -82,3 +82,8 @@ http://eclassesbyravindra.com/mod/page/view.php?id=6344
 lower_bound() & upper_bound()
 
 memset(array,0,sizeof(array));
+
+* if hashing using stl map or anything gives you tle error then use array for implementing hash to get O(n) time complexity.
+
+
+
