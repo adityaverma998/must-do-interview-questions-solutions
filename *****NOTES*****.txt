@@ -91,4 +91,4 @@ char s[1000];
 scanf(" %[^\n]s",s);
 to read strings with spaces
 --------
-
+https://stackoverflow.com/questions/7500892/get-index-of-substring
